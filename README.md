@@ -2,7 +2,7 @@
 
 ## Overview
 
-I developed a simple lane detection system called JLo Lane Detector to detect and visualize lanes on the road in videos. It utilizes computer vision techniques to identify and highlight lane lines, making it a valuable tool for various applications, such as autonomous vehicles or driver assistance systems. This was developed to expand my knowledge on OpenCV and to dive into the basics of autnomous driving .
+I am currently developing a simple lane detection system called JLo Lane Detector to detect and visualize lanes on the road in videos. It utilizes computer vision techniques to identify and highlight lane lines, making it a valuable tool for various applications, such as autonomous vehicles or driver assistance systems. This is being developed to expand my knowledge on OpenCV and to dive into the basics of autonomous driving.
 
 
 ## Features
